@@ -35,10 +35,8 @@ function MentionComments() {
   };
 
   const fetchSuggestions = (query) => {
-    // Implement this function to fetch suggestions based on the query
-    // This could be an AJAX call to your server/database
-    // Return a list of suggestions
-    return ['Samuel Jackson', 'Binoy David', 'Jackson', 'Selar']; // Dummy data for demonstration
+   
+    return ['Samuel Jackson', 'Binoy David', 'Jackson', 'Selar'];
   };
 
   // Function to generate a random color code
