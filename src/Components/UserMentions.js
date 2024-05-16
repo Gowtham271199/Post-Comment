@@ -55,7 +55,7 @@ function MentionComments() {
         <textarea
           value={comment}
           onChange={handleInputChange}
-          placeholder="Type your comment here..."
+          placeholder="Create a Post..."
           className="w-full p-2 border rounded-md bg-white text-black"
         />
         <div className="border border-gray-300 mt-2 rounded-md">
